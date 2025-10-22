@@ -2,7 +2,6 @@
 
 **Author:** Abdullah Asif  
 **Course:** Advanced Database Systems - 5th Semester BSCS  
-**Project Weight:** 25% of grade
 
 ## Project Overview
 
