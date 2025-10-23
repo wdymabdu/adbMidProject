@@ -41,7 +41,7 @@ flight_price_tracker/
 ├── requirements.txt           # Python dependencies
 ├── flights_data.json          # Generated flight data (created after running generate_data.py)
 ├── README.md                  # This file
-└── viva_preparation.md        # Detailed documentation for viva
+
 ```
 
 ## Setup Instructions
